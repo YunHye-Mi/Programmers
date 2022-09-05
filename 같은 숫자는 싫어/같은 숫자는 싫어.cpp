@@ -20,7 +20,3 @@ vector<int> solution(vector<int> arr)
 
     return answer;
 }
-
-int main() {
-    return 0;
-}
