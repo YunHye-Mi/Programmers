@@ -15,13 +15,3 @@ vector<int> solution(vector<int> array, vector<vector<int>> commands) {
 
     return answer;
 }
-
-int main() {
-
-    vector<int> array = { 1,5,2,6,3,7,4 };
-    vector<vector<int>> commands = { {2,5,3}, {4,4,1},{1,7,3} };
-
-    solution(array, commands);
-
-    return 0;
-}
