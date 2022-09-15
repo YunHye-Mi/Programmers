@@ -24,7 +24,3 @@ bool solution(string s)
 
     return answer;
 }
-
-int main() {
-    return 0;
-}
