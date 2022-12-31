@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-
+// 다시 생각해볼 문제
 using namespace std;
 
 int compare(string a, string b){

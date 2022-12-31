@@ -1,6 +1,6 @@
 #include <vector>
 #include <map>
-
+// 다시 생각해볼 문제
 using namespace std;
 int solution(int n, vector<int> lost, vector<int> reserve) {
     int answer = 0;
