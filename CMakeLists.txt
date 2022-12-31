@@ -19,4 +19,4 @@ add_executable(Programmers
         최소직사각형/최소직사각형.cpp
         폰켓몬/폰켓몬.cpp
         "행렬의 덧셈/행렬의 덧셈.cpp"
-        히샤드수/히샤드수.cpp)
+        히샤드수/히샤드수.cpp "가장 큰 수/가장 큰 수.cpp")
